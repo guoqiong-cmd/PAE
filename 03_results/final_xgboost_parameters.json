@@ -1,0 +1,14 @@
+{
+  "objective": "reg:squarederror",
+  "eval_metric": "rmse",
+  "random_state": 42,
+  "tree_method": "hist",
+  "n_estimators": 300,
+  "max_depth": 6,
+  "learning_rate": 0.03,
+  "subsample": 0.7,
+  "colsample_bytree": 0.7,
+  "min_child_weight": 3,
+  "reg_alpha": 0,
+  "reg_lambda": 1
+}

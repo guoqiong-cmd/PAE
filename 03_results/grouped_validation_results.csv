@@ -1,0 +1,2 @@
+validation,n,groups,R2,RMSE,MAE
+Experimental-condition-level nested five-fold CV,701,122,0.681806,1.461745,1.103899
